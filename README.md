@@ -1,17 +1,17 @@
-#About this App
+# About this App
 
 This App was created using the React library and ant design for the styles of the components.
 
-#How does it work? 
+# How does it work? 
 
 This application is focused on verify the license plate of the vehicles and check if it can be on the road or not, according to the Pico-Placa regime that is running in Quito, Ecuador. 
 So, there is two ways that you can do that. One way is that you can enter a license plate and check if the vehicle with that license plate can be on the road today, and the other way is if you enter a license plate along with a date and a time, and check if that vehicle with that license plate can be on the road given the previus information. The application will return a pop up message wether you can or cannot be on the road.
 
-#How do I have to type the info?
+# How do I have to type the info?
 
 Simple, you have to write a valid license plate, for example POI-475. Rebemeber that a license plate begin with tree letters along with minus symbol and then tree or four numbers, if you don't write it like this the app will show you a pop up message telling you to write a valid license plate. For the date input, you must follow the correct format that is shown to you in the placeholder (mm/dd/aaaa).
 
-#How can I try this app? 
+# How can I try this app? 
 
 If you want, you can clone this repo and follow the steps below to try it local, but if you don't want to clone and do all the process, you can go to this [link](https://pico-placa-virid.vercel.app/).
 
