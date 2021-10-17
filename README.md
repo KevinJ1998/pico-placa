@@ -1,6 +1,6 @@
 # About this App
 
-This App was created using the React library and ant design for the styles of the components.
+This App was created using the React library and ant design for the styles.
 
 # How does it work? 
 
