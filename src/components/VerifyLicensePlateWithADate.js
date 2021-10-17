@@ -80,9 +80,9 @@ export const VerifyLicensePlateWithADate = () => {
         ] }>
         <TimePicker />
       </Form.Item>
-      <Form.Item>
+      <Form.Item name={'verify-button'}>
         <Button type='primary' htmlType='submit' loading={ loading }>
-          Verificar
+          Buscar
         </Button>
       </Form.Item>
     </Form>

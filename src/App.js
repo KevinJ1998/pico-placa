@@ -21,7 +21,7 @@ function App() {
       </Row>
       <Row justify={ 'center' } style={ { marginTop: 20 } }>
         <Col>
-          <Title level={ 2 }>Verifica que día puede circular tu vehículo</Title>
+          <Title level={ 2 }>Busca que día y hora puede circular tu vehículo</Title>
         </Col>
       </Row>
       <Row justify={ 'center' }>

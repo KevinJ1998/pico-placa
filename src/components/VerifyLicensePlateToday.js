@@ -25,6 +25,7 @@ export const VerifyLicensePlateToday = () => {
     }
   };
   return <Search
+    data-testid="first-input"
     placeholder='Placa'
     enterButton='Verificar'
     style={ { width: 300 } }
