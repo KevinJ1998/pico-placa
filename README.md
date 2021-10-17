@@ -15,7 +15,7 @@ Simple, you have to write a valid license plate, for example POI-475. Rebemeber 
 
 If you want, you can clone this repo and follow the steps below to try it local, but if you don't want to clone and do all the process, you can go to this [link](https://pico-placa-virid.vercel.app/).
 
-Also this app have testing scripts with cypress, so you can test it by running the following command ### `yarn run cypress open`
+Also this app have testing scripts with cypress, so you can test it by running the following command `yarn run cypress open`
 
 # Getting Started with Create React App
 
